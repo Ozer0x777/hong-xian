@@ -1,4 +1,4 @@
-# Red Thread - hóng xiàn (红线)
+# Red Thread - Hóng Xiàn (红线)
 
 Hóng Xiàn is a Python script designed to communicate with Quectel M35A modules and manage the sending and receiving of SMS messages. The script supports multiple modules and can automatically detect and connect to available modules.
 
